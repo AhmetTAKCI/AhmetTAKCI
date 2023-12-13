@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Burak!](https://github.com/burakkutluk)
+## Hey there 👋, I'm [Ahmet!](https://github.com/AhmetTAKCI)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burak-kutluk-3a1128199/)
 
