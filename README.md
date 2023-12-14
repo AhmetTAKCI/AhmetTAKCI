@@ -14,7 +14,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 - 🛠 &nbsp; I’m currently working with JS, TS, React, Node etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: burakkutlukk@gmail.com.
+- 📫 &nbsp; Reach me out: ahmettakci7@gmail.com
 
 ### My Absolute Favorites:
 
